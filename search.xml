@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+      xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>bunnylol</ShortName>access name, (except for permission manager where this is group id)
+  <Description>facebook bunnylol</Description>
+<Url type="text/html" method="get" template="https://www.internalfb.com/intern/bunny/?q={searchTerms}"/>
+<Developer>facebook</Developer>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16" type="image/x-icon">https://www.facebook.com/favicon.ico</Image>
+</OpenSearchDescription>
