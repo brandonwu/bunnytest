@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>bunnylol</ShortName>access name, (except for permission manager where this is group id)
+  <ShortName>bunnylol</ShortName>
   <Description>facebook bunnylol</Description>
 <Url type="text/html" method="get" template="https://www.internalfb.com/intern/bunny/?q={searchTerms}"/>
 <Developer>facebook</Developer>
